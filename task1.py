@@ -20,3 +20,10 @@ Example:
 10
 ...
 """
+value = 0
+
+
+while value != 20:
+    value = value + 2
+    print(value)
+        
