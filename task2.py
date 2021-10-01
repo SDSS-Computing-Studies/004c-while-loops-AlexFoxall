@@ -29,3 +29,13 @@ Access granted
 
 
 """
+
+username = input("enter username")
+username.strip()
+password = input("enter password")
+password.strip()
+
+while username != "admin":
+    print("no")
+    if username == "admin":
+        print("yes")
