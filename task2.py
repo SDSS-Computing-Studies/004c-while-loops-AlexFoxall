@@ -35,7 +35,5 @@ username.strip()
 password = input("enter password")
 password.strip()
 
-while username != "admin":
-    print("no")
-    if username == "admin":
-        print("yes")
+if username != "admin":
+    print("access denied")
