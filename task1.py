@@ -8,7 +8,7 @@ or update the current value through every iteration of the
 while loop
 
 (2 marks)
-Inputs:
+Inputs:  
 none
 
 Outputs:

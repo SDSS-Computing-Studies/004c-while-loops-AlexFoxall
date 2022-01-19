@@ -32,7 +32,7 @@ while number != 0:
     number = int(input("Enter a number: "))
     if (number % 2) != 0:
         print("That is not even integer")
-            else:
-                print("That is not an even integer")
+else:
+    print("That is not an even integer")
 
         
