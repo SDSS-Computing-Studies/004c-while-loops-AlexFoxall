@@ -17,3 +17,11 @@ example:
 Enter a number: 4
 4 8 12 16 20 24 28 32 36 40 44 48
 """
+x = input('enter a number')
+numlist = [1,2,3,4,5,6,7,8,9,10,11,12]
+x = int(x)
+for i in numlist:
+    print(i * x, end = " ")
+
+
+
